@@ -1,0 +1,9 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+ 
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  }
+}
